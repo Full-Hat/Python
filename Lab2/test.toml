@@ -1,0 +1,64 @@
+[__object_type__]
+__name__ = "Example"
+[__object_type__.__init__]
+__name__ = "__init__"
+[__object_type__.__init__.__code__]
+co_argcount = 1
+co_cellvars = []
+co_code = "bytes_58_18608150247314660378763603880053367178148684845956686458922221510621434319852249137277545494266686549010094254504143191619968722668215096064"
+co_consts = ["None", "Apple", "Jack", "helecopter", true, false, "Egor", "Kiril", "j", 1, "ALARM", 12, "bytes_10_984942044076226382057867"]
+co_filename = "/home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py"
+co_firstlineno = 17
+co_flags = 67
+co_freevars = []
+co_kwonlyargcount = 0
+co_lnotab = "bytes_14_81086309852090297567317922305"
+co_name = "__init__"
+co_names = ["fruit", "name", "sex", "answer", "probobility", "list", "bytes"]
+co_nlocals = 1
+co_posonlyargcount = 0
+co_stacksize = 6
+co_varnames = ["self"]
+
+[__object_type__.__init__.__globals__]
+
+
+__defaults__ = "None"
+__closure__ = []
+
+[__object_type__.calculate]
+__name__ = "calculate"
+[__object_type__.calculate.__code__]
+co_argcount = 1
+co_cellvars = []
+co_code = "bytes_4_1677808384"
+co_consts = ["None", 2]
+co_filename = "/home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py"
+co_firstlineno = 26
+co_flags = 67
+co_freevars = []
+co_kwonlyargcount = 0
+co_lnotab = "bytes_2_1"
+co_name = "calculate"
+co_names = []
+co_nlocals = 1
+co_posonlyargcount = 0
+co_stacksize = 1
+co_varnames = ["self"]
+
+[__object_type__.calculate.__globals__]
+
+
+__defaults__ = "None"
+__closure__ = []
+
+
+[__dict__]
+fruit = "Apple"
+name = "Jack"
+sex = "helecopter"
+answer = true
+probobility = false
+list = ["Egor", "Kiril", "j", 1, "ALARM", 12]
+bytes = "bytes_10_984942044076226382057867"
+

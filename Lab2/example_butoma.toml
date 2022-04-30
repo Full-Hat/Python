@@ -1,0 +1,24 @@
+__name__ = "example_butoma"
+[__code__]
+co_argcount = 0
+co_cellvars = []
+co_code = "bytes_22_43401666093107807929132042187240808049717591901557504"
+co_consts = ["None", 30]
+co_filename = "/home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py"
+co_firstlineno = 11
+co_flags = 67
+co_freevars = []
+co_kwonlyargcount = 0
+co_lnotab = "bytes_2_1"
+co_name = "example_butoma"
+co_names = ["math", "ceil", "sin", "radians"]
+co_nlocals = 0
+co_posonlyargcount = 0
+co_stacksize = 7
+co_varnames = []
+
+[__globals__]
+math = "__module__"
+
+__defaults__ = "None"
+__closure__ = []
