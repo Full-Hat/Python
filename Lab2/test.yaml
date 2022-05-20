@@ -25,7 +25,7 @@ __object_type__:
         - Atacks
       - Street
       - A.Bachilo
-      co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+      co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
       co_firstlineno: 84
       co_flags: 67
       co_freevars: []
@@ -62,7 +62,7 @@ __object_type__:
           - !!null null
           - 0
           - t
-          co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+          co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
           co_firstlineno: 41
           co_flags: 31
           co_freevars: 
@@ -106,7 +106,7 @@ __object_type__:
             - - t
             - Hi, 
             - 9
-            co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+            co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
             co_firstlineno: 61
             co_flags: 67
             co_freevars: []
@@ -161,7 +161,7 @@ __object_type__:
                     - ALARM
                     - 12
                     - !!bytes10 984942044076226382057867
-                    co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+                    co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
                     co_firstlineno: 17
                     co_flags: 67
                     co_freevars: []
@@ -193,7 +193,7 @@ __object_type__:
                     co_consts: 
                     - !!null null
                     - 2
-                    co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+                    co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
                     co_firstlineno: 26
                     co_flags: 67
                     co_freevars: []
@@ -234,7 +234,7 @@ __object_type__:
                   co_consts: 
                   - !!null null
                   - Apple
-                  co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+                  co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
                   co_firstlineno: 32
                   co_flags: 67
                   co_freevars: []
@@ -286,7 +286,7 @@ __object_type__:
                 - ALARM
                 - 12
                 - !!bytes10 984942044076226382057867
-                co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+                co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
                 co_firstlineno: 17
                 co_flags: 67
                 co_freevars: []
@@ -318,7 +318,7 @@ __object_type__:
                 co_consts: 
                 - !!null null
                 - 2
-                co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+                co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
                 co_firstlineno: 26
                 co_flags: 67
                 co_freevars: []
@@ -358,7 +358,7 @@ __object_type__:
               co_consts: 
               - !!null null
               - Apple
-              co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+              co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
               co_firstlineno: 32
               co_flags: 67
               co_freevars: []
@@ -401,7 +401,7 @@ __object_type__:
           - ALARM
           - 12
           - !!bytes10 984942044076226382057867
-          co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+          co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
           co_firstlineno: 17
           co_flags: 67
           co_freevars: []
@@ -433,7 +433,7 @@ __object_type__:
           co_consts: 
           - !!null null
           - 2
-          co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+          co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
           co_firstlineno: 26
           co_flags: 67
           co_freevars: []
@@ -473,7 +473,7 @@ __object_type__:
       - !!null null
       - Static is ready
       - All right
-      co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+      co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
       co_firstlineno: 102
       co_flags: 67
       co_freevars: []
@@ -498,7 +498,7 @@ __object_type__:
       co_consts: 
       - !!null null
       - I am here
-      co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+      co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
       co_firstlineno: 107
       co_flags: 67
       co_freevars: []
@@ -525,7 +525,7 @@ __object_type__:
       co_consts: 
       - !!null null
       - Good morning
-      co_filename: /home/zaya/Desktop/magic_fauldoer/Sem4LabsISP/Lab2/test_values.py
+      co_filename: /home/zaya/Desktop/Python-Lab2/Lab2/test_values.py
       co_firstlineno: 99
       co_flags: 67
       co_freevars: []
